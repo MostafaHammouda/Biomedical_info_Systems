@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\bin\Debug\Doctor View.exe.config
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\bin\Debug\Doctor View.exe
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\bin\Debug\Doctor View.pdb
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\obj\Debug\Doctor View.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\obj\Debug\Doctor View.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\obj\Debug\Doctor_View.Appointments.resources
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\obj\Debug\Doctor_View.Return_Home.resources
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\obj\Debug\Doctor_View.Patient_File.resources
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\obj\Debug\Doctor_View.Previous_Visits.resources
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\obj\Debug\Doctor_View.Profile.resources
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\obj\Debug\Doctor_View.Properties.Resources.resources
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\obj\Debug\Doctor View.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\obj\Debug\Doctor View.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\obj\Debug\Doctor View.exe
+C:\Users\User\Desktop\Spring 22\BMD Systems\Lab\lab1\Doctor View\Doctor View\obj\Debug\Doctor View.pdb
