@@ -10,11 +10,21 @@
         "runtime": {
           "TBD.dll": {}
         }
+      },
+      "Doctor View/1.0.0": {
+        "runtime": {
+          "Doctor View.exe": {}
+        }
       }
     }
   },
   "libraries": {
     "TBD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Doctor View/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

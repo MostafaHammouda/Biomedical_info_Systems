@@ -31,5 +31,40 @@ namespace TBD
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Add_Doctor  f6 = new Add_Doctor();
+            f6.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            receptionest_view f2 = new receptionest_view();
+            f2.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            add_appointment f4 = new add_appointment();
+            f4.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            add_apatient_record f9 = new add_apatient_record();
+            f9.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            receptionest_view f2 = new receptionest_view();
+            f2.Show();
+        }
     }
 }
