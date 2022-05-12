@@ -52,6 +52,12 @@
     <Compile Include="Appointments.Designer.cs">
       <DependentUpon>Appointments.cs</DependentUpon>
     </Compile>
+    <Compile Include="New_Acc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New_Acc.Designer.cs">
+      <DependentUpon>New_Acc.cs</DependentUpon>
+    </Compile>
     <Compile Include="Return_Home.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +86,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Appointments.resx">
       <DependentUpon>Appointments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_Acc.resx">
+      <DependentUpon>New_Acc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Return_Home.resx">
       <DependentUpon>Return_Home.cs</DependentUpon>

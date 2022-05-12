@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button3 = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
             this.button5 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
@@ -40,8 +42,6 @@
             this.Time = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Date = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label1 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.button3 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -59,6 +59,27 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(200, 471);
             this.panel1.TabIndex = 8;
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(34, 405);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(104, 26);
+            this.button3.TabIndex = 18;
+            this.button3.Text = "Return_Home";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.LightCyan;
+            this.label3.Location = new System.Drawing.Point(29, 29);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(111, 25);
+            this.label3.TabIndex = 11;
+            this.label3.Text = "Dashboard";
             // 
             // button5
             // 
@@ -161,27 +182,6 @@
             this.label1.TabIndex = 10;
             this.label1.Text = "Appointments";
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft YaHei", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.LightCyan;
-            this.label3.Location = new System.Drawing.Point(29, 29);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(111, 25);
-            this.label3.TabIndex = 11;
-            this.label3.Text = "Dashboard";
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(34, 405);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(104, 26);
-            this.button3.TabIndex = 18;
-            this.button3.Text = "Return_Home";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
             // Appointments
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -191,7 +191,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Appointments";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Appointments";
             this.Load += new System.EventHandler(this.Appointments_Load);
             this.panel1.ResumeLayout(false);
